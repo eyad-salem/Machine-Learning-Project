@@ -17,7 +17,7 @@ The dataset (`student_performance.csv`) includes the following attributes:
 - **final_score:** Continuous final score achieved (Target for Regression)
 - **passed:** Binary indicator of whether the student passed (Target for Classification)
 
----
+--- 
 
 ## Models Implemented
 
